@@ -1,4 +1,4 @@
-/** @type {import('tailwindcss').Config} */
+/** @type {import('@tailwindcss/postcss').Config} */
 module.exports = {
     // 1. Paths to all of your template files
     content: [
